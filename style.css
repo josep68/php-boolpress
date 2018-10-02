@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  width: 100vw;
+  height: 100vh;
+}
+.container {
+  width: 60%;
+  height: auto;
+  margin: 30px auto 50px;
+  color: black;
+  border-bottom: 2px solid cyan;
+}
+.container a {
+  width: 100%;
+  text-decoration: none;
+  color: black;
+}
+h1 {
+  font-size: 18px;
+}
+h3 {
+  font-size: 14px;
+}
